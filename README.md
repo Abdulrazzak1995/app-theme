@@ -35,7 +35,7 @@ Project is finished without doing some steps.
  Build a responsive HTML & CSS template with FlexboxGrid ,  through a tutorial on youtube "Traversy Media".
 
 ## Contact
-Abdulrazzak Abdi  Github:(https://github.com/Abdulrazzak1995)
+Abdulrazzak Abdi  [Github](https://github.com/Abdulrazzak1995)
 
 
 MIT © [Abdulrazzak](https://github.com/Abdulrazzak1995)
