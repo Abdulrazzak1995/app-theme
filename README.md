@@ -6,7 +6,7 @@ Code-Along : this project is to study the app-theme tutorial from Traversy Media
 and try to study branching .
 
 ## Table of contents
-+ Generation infos
++ [General infos] (## General infos )
 + Screenshots
 + Technologies
 + Features
@@ -15,7 +15,7 @@ and try to study branching .
 + Contact
 
 
-## Generation infos 
+## General infos 
 This project aims to learn more about branching and be more comfortable , get familier with FlixBoxGrid .
  
 ## Screenshots
