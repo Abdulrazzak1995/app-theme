@@ -7,7 +7,7 @@ and try to study branching .
 
 ## Table of contents
 + [General infos](#General-infos )
-+ [Screenshots](#Screenshots )
++ [Screenshot](#Screenshot )
 + [Technologies](#Technologies )
 + [Features](#Features )
 + [Status](#Status )
@@ -18,8 +18,9 @@ and try to study branching .
 ## General infos 
 This project aims to learn more about branching and be more comfortable , get familier with FlixBoxGrid .
  
-## Screenshots
-
+## Screenshot
+This is a screen shot
+![Screenshot](file:///Users/abd/Desktop/Capture%20d%E2%80%99e%CC%81cran%202020-01-25%20a%CC%80%2023.17.50.png)
 ## Technologies 
 + HTML5 /CSS , FlexboxGrid
 
@@ -33,7 +34,7 @@ Project is finished without doing some steps.
  Build a responsive HTML & CSS template with FlexboxGrid ,  through a tutorial on youtube "Traversy Media".
 
 ## Contact
-Abdulrazzak Abdi  Mail:(abdulrssak@gmail.com)
+Abdulrazzak Abdi  Github:(https://github.com/Abdulrazzak1995)
 
 
-MIT © [Abdulrazzak]()
+MIT © [Abdulrazzak](https://github.com/Abdulrazzak1995)
