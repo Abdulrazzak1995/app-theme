@@ -6,13 +6,13 @@ Code-Along : this project is to study the app-theme tutorial from Traversy Media
 and try to study branching .
 
 ## Table of contents
-* [General infos](#General-infos )
-+ Screenshots
-+ Technologies
-+ Features
-+ Status
-+ Inspiration
-+ Contact
++ [General infos](#General-infos )
++ [Screenshots](#Screenshots )
++ [Technologies](#Technologies )
++ [Features](#Features )
++ [Status](#Status )
++ [Inspiration](#Inspiration )
++ [Contact](#Contact )
 
 
 ## General infos 
